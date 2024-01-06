@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>
+      <title>CONTACTO</title> <img src="/multimedia/imagenes/foto.jpg" alt="" />
 </head>
 
 <body>
@@ -10,7 +10,7 @@
 </font>
 
 <font face="Comic Sans MS,arial">
-Diseño e implementación de soluciones funcionales con foco en la <b>data</b> e <b>innovación </b>
+Diseño e implementación de <b>soluciones funcionales</b> para tu empresa con foco en la <b>data</b> e <b>innovación </b>.
 
 <br>
 <br>
